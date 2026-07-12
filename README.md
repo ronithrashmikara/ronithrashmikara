@@ -47,8 +47,12 @@ Top 50 · ADIA Structural Break Challenge &nbsp;•&nbsp; CV Research (Japan × 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=InfiniteBloom-max&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InfiniteBloom-max&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=InfiniteBloom-max&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=InfiniteBloom-max&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=InfiniteBloom-max&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%" alt="Contribution Graph" />
 
 </div>
 
