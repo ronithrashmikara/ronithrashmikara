@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="./banner_image.png" alt="Ronith Rashmikara" width="100%" />
+<img src="./banner_image.png" alt="Ronith Rashmikara" width="88%" />
 
 # Ronith Rashmikara
 
-**I build systems across the whole stack — from multi-agent AI orchestration down to SystemVerilog RTL.**
+**Full-stack + AI systems builder shipping products from multi-agent backends to polished interfaces.**
 
-Top 50 · ADIA Structural Break Challenge &nbsp;•&nbsp; CV Research (Japan × Sri Lanka textiles) &nbsp;•&nbsp; Full-stack product engineering
+`AI Agents` · `Full-stack Engineering` · `Computer Vision Research` · `FPGA / RTL` · `Data Systems`
 
 [![Email](https://img.shields.io/badge/Email-ronithrashmikara%40gmail.com-1f2937?style=flat-square&logo=gmail&logoColor=white)](mailto:ronithrashmikara@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-ronithrr-1f2937?style=flat-square&logo=kaggle&logoColor=20BEFF)](https://www.kaggle.com/ronithrr)
@@ -16,32 +16,42 @@ Top 50 · ADIA Structural Break Challenge &nbsp;•&nbsp; CV Research (Japan × 
 
 ---
 
-## Proof of work
+## Best proof
 
-- 🥇 **[ADIA Structural Break Challenge — Top 50](https://hub.crunchdao.com/competitions/structural-break)** — structural break detection on financial time-series, ranked against quantitative researchers worldwide.
-- 🔬 **[Jasper — reproducible CV research](https://github.com/ronithrashmikara/Jasper)** — deep-learning analysis of cross-cultural textile design patterns between Japan and Sri Lanka, with full reproducible code and dataset methodology.
-- ⚡ **[Advent of FPGA 2025](https://github.com/ronithrashmikara/FPGA-2025-AOC-Submission)** — RTL puzzle solutions in SystemVerilog. Same brain that orchestrates LLM agents also meets timing at the silicon level.
+| Signal | Work |
+|---|---|
+| 🥇 **Top 50** | [ADIA Structural Break Challenge](https://hub.crunchdao.com/competitions/structural-break) — structural break detection on financial time-series, ranked against quantitative researchers worldwide. |
+| 🔬 **Research** | [Jasper](https://github.com/ronithrashmikara/Jasper) — reproducible computer-vision research on Japan × Sri Lanka textile design patterns. |
+| ⚡ **Low-level systems** | [Advent of FPGA 2025](https://github.com/ronithrashmikara/FPGA-2025-AOC-Submission) — SystemVerilog RTL puzzle solutions. |
+| 🌸 **Product engineering** | [Project Green Orchids](https://github.com/ronithrashmikara/Project-Green-Orchids) — B2B wholesale orchid trade platform with RFQs, orders, pricing, RBAC, finance, inventory and delivery workflows. |
 
 ## Featured builds
 
-| Project | What it is | Stack |
+| Project | What it shows | Stack |
 |---|---|---|
-| 🌸 [**ORCHIDS**](https://github.com/ronithrashmikara/Project-Green-Orchids) | B2B wholesale trade platform — full RFQ → quote → order pipeline with tier pricing, RBAC, invoicing, payments and RMA, in a dark glassmorphism UI | Next.js 14 · Express · PostgreSQL |
-| 🌲 [**PathTree**](https://github.com/ronithrashmikara/PathTree) + [flow-mind](https://github.com/ronithrashmikara/flow-mind) | Multi-agent backend that turns PDFs/PPTX into knowledge trees, summaries, flashcards and an AI tutor — complete product, backend to frontend | Python · FastAPI · TypeScript · Mistral |
-| 🤖 [**AI Agent Capstone**](https://github.com/ronithrashmikara/AI-Agent-Capstone) | Multi-agent system that transforms dense academic content into clear conceptual maps | Python · LangChain · Mistral |
-| 🐦 [**Flock-Emerge**](https://github.com/ronithrashmikara/Flock-Emerge) | 2D Boids flocking simulation with predator–prey dynamics — emergent behaviour from three rules, live in the browser | Canvas API · zero dependencies |
-| 🎤 [**3D Viva Planner**](https://github.com/ronithrashmikara/project-green-3d-viva-planner) | Interactive Three.js rehearsal planner — slides, posters and presenters in a navigable 3D space | Three.js |
-| 📡 [**RSS-Feed**](https://github.com/ronithrashmikara/RSS-Feed) | Clean multi-source RSS dashboard — the open web, no algorithm required | HTML · CSS · JS |
+| 🌸 [**Project Green Orchids**](https://github.com/ronithrashmikara/Project-Green-Orchids) | Full product thinking: RFQ → quote → order, tier pricing, invoicing, payments, RMA, RBAC, dashboards and operations flows. | Next.js · Express · PostgreSQL |
+| 🌲 [**PathTree**](https://github.com/ronithrashmikara/PathTree) + [flow-mind](https://github.com/ronithrashmikara/flow-mind) | Multi-agent document learning system that turns PDFs/PPTX into knowledge trees, summaries, flashcards and tutoring flows. | Python · FastAPI · TypeScript · Mistral |
+| 🤖 [**AI Agent Capstone**](https://github.com/ronithrashmikara/AI-Agent-Capstone) | Agentic academic-content transformation into clearer conceptual maps and study structures. | Python · LangChain · Mistral |
+| 🔬 [**Jasper**](https://github.com/ronithrashmikara/Jasper) | Reproducible CV pipeline with dataset methodology and model experimentation. | Python · Deep Learning · CV |
+| 🐦 [**Flock-Emerge**](https://github.com/ronithrashmikara/Flock-Emerge) | Browser-native emergent behaviour simulation using Boids and predator-prey dynamics. | HTML · Canvas · JavaScript |
+| 🎤 [**3D Viva Planner**](https://github.com/ronithrashmikara/project-green-3d-viva-planner) | Interactive rehearsal planning in a navigable 3D presentation space. | Three.js · HTML · CSS |
+
+## What I like building
+
+- **AI systems that become products** — agents, retrieval, tutoring flows, document pipelines and evaluation tools.
+- **Full-stack applications with real workflows** — auth, dashboards, finance logic, operations tools and clean UI.
+- **Research code that can be rerun** — readable experiments, documented datasets and reproducible results.
+- **Systems-level projects** — algorithms, RTL, simulations and performance-minded engineering.
 
 ## Currently
 
-- 🧪 **DataAgent-SafeBench / JASPER 2026** — reproducible research on agent safety benchmarking
-- 🎬 **Cinematic interactive portfolio** — personal site, in progress
-- 🌱 Reviving early projects in [project-archive](https://github.com/ronithrashmikara/project-archive), one polish at a time
+- 🧪 Working on **DataAgent-SafeBench / JASPER 2026** — reproducible research around agent safety benchmarking.
+- 🎬 Building a cinematic interactive portfolio.
+- 🌱 Polishing older projects inside [project-archive](https://github.com/ronithrashmikara/project-archive).
 
-## Tools I reach for
+## Toolkit
 
-`Python` `TypeScript` `PyTorch` `LangChain` `FastAPI` `Next.js` `Node.js` `PostgreSQL` `FAISS` `Docker` `SystemVerilog` `Java`
+`Python` `TypeScript` `JavaScript` `PyTorch` `LangChain` `FastAPI` `Next.js` `Node.js` `PostgreSQL` `FAISS` `Docker` `SystemVerilog` `Java`
 
 ## Activity
 
@@ -59,5 +69,5 @@ Top 50 · ADIA Structural Break Challenge &nbsp;•&nbsp; CV Research (Japan × 
 ---
 
 <div align="center">
-<sub><i>Building at the intersection of intelligence, systems, and creativity — and shipping all three.</i></sub>
+<sub><i>Building at the intersection of intelligence, systems and product craft.</i></sub>
 </div>
