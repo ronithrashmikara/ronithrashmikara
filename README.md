@@ -19,25 +19,25 @@ Top 50 · ADIA Structural Break Challenge &nbsp;•&nbsp; CV Research (Japan × 
 ## Proof of work
 
 - 🥇 **[ADIA Structural Break Challenge — Top 50](https://hub.crunchdao.com/competitions/structural-break)** — structural break detection on financial time-series, ranked against quantitative researchers worldwide.
-- 🔬 **[Jasper — reproducible CV research](https://github.com/InfiniteBloom-max/Jasper)** — deep-learning analysis of cross-cultural textile design patterns between Japan and Sri Lanka, with full reproducible code and dataset methodology.
-- ⚡ **[Advent of FPGA 2025](https://github.com/InfiniteBloom-max/FPGA-2025-AOC-Submission)** — RTL puzzle solutions in SystemVerilog. Same brain that orchestrates LLM agents also meets timing at the silicon level.
+- 🔬 **[Jasper — reproducible CV research](https://github.com/ronithrashmikara/Jasper)** — deep-learning analysis of cross-cultural textile design patterns between Japan and Sri Lanka, with full reproducible code and dataset methodology.
+- ⚡ **[Advent of FPGA 2025](https://github.com/ronithrashmikara/FPGA-2025-AOC-Submission)** — RTL puzzle solutions in SystemVerilog. Same brain that orchestrates LLM agents also meets timing at the silicon level.
 
 ## Featured builds
 
 | Project | What it is | Stack |
 |---|---|---|
-| 🌸 [**ORCHIDS**](https://github.com/InfiniteBloom-max/Project-Green-Orchids) | B2B wholesale trade platform — full RFQ → quote → order pipeline with tier pricing, RBAC, invoicing, payments and RMA, in a dark glassmorphism UI | Next.js 14 · Express · PostgreSQL |
-| 🌲 [**PathTree**](https://github.com/InfiniteBloom-max/PathTree) + [flow-mind](https://github.com/InfiniteBloom-max/flow-mind) | Multi-agent backend that turns PDFs/PPTX into knowledge trees, summaries, flashcards and an AI tutor — complete product, backend to frontend | Python · FastAPI · TypeScript · Mistral |
-| 🤖 [**AI Agent Capstone**](https://github.com/InfiniteBloom-max/AI-Agent-Capstone) | Multi-agent system that transforms dense academic content into clear conceptual maps | Python · LangChain · Mistral |
-| 🐦 [**Flock-Emerge**](https://github.com/InfiniteBloom-max/Flock-Emerge) | 2D Boids flocking simulation with predator–prey dynamics — emergent behaviour from three rules, live in the browser | Canvas API · zero dependencies |
-| 🎤 [**3D Viva Planner**](https://github.com/InfiniteBloom-max/project-green-3d-viva-planner) | Interactive Three.js rehearsal planner — slides, posters and presenters in a navigable 3D space | Three.js |
-| 📡 [**RSS-Feed**](https://github.com/InfiniteBloom-max/RSS-Feed) | Clean multi-source RSS dashboard — the open web, no algorithm required | HTML · CSS · JS |
+| 🌸 [**ORCHIDS**](https://github.com/ronithrashmikara/Project-Green-Orchids) | B2B wholesale trade platform — full RFQ → quote → order pipeline with tier pricing, RBAC, invoicing, payments and RMA, in a dark glassmorphism UI | Next.js 14 · Express · PostgreSQL |
+| 🌲 [**PathTree**](https://github.com/ronithrashmikara/PathTree) + [flow-mind](https://github.com/ronithrashmikara/flow-mind) | Multi-agent backend that turns PDFs/PPTX into knowledge trees, summaries, flashcards and an AI tutor — complete product, backend to frontend | Python · FastAPI · TypeScript · Mistral |
+| 🤖 [**AI Agent Capstone**](https://github.com/ronithrashmikara/AI-Agent-Capstone) | Multi-agent system that transforms dense academic content into clear conceptual maps | Python · LangChain · Mistral |
+| 🐦 [**Flock-Emerge**](https://github.com/ronithrashmikara/Flock-Emerge) | 2D Boids flocking simulation with predator–prey dynamics — emergent behaviour from three rules, live in the browser | Canvas API · zero dependencies |
+| 🎤 [**3D Viva Planner**](https://github.com/ronithrashmikara/project-green-3d-viva-planner) | Interactive Three.js rehearsal planner — slides, posters and presenters in a navigable 3D space | Three.js |
+| 📡 [**RSS-Feed**](https://github.com/ronithrashmikara/RSS-Feed) | Clean multi-source RSS dashboard — the open web, no algorithm required | HTML · CSS · JS |
 
 ## Currently
 
 - 🧪 **DataAgent-SafeBench / JASPER 2026** — reproducible research on agent safety benchmarking
 - 🎬 **Cinematic interactive portfolio** — personal site, in progress
-- 🌱 Reviving early projects in [project-archive](https://github.com/InfiniteBloom-max/project-archive), one polish at a time
+- 🌱 Reviving early projects in [project-archive](https://github.com/ronithrashmikara/project-archive), one polish at a time
 
 ## Tools I reach for
 
@@ -47,12 +47,12 @@ Top 50 · ADIA Structural Break Challenge &nbsp;•&nbsp; CV Research (Japan × 
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=InfiniteBloom-max&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=InfiniteBloom-max&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ronithrashmikara&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ronithrashmikara&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=InfiniteBloom-max&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ronithrashmikara&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%" alt="Contribution Graph" />
 
 </div>
 
