@@ -10,7 +10,7 @@
 
 [![Email](https://img.shields.io/badge/Email-ronithrashmikara%40gmail.com-1f2937?style=flat-square&logo=gmail&logoColor=white)](mailto:ronithrashmikara@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-ronithrr-1f2937?style=flat-square&logo=kaggle&logoColor=20BEFF)](https://www.kaggle.com/ronithrr)
-[![X](https://img.shields.io/badge/X-%40RR29577-1f2937?style=flat-square&logo=x&logoColor=white)](https://x.com/RR29577)
+[![X](https://img.shields.io/badge/X-%40RonithR_-1f2937?style=flat-square&logo=x&logoColor=white)](https://x.com/RonithR_)
 
 </div>
 
